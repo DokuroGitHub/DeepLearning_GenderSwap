@@ -2,15 +2,15 @@
 
 Nhóm 05:
 
-Lê Duy Bách		    18110253
+18110253 Lê Duy Bách         
 
-Võ Thành Đô		    18110270
+18110270 Võ Thành Đô		      
 
-Đặng Văn Sang	    18110352
+18110352 Đặng Văn Sang	      
 
-Nguyễn Đăng Thắng 18110369	
+18110369 Nguyễn Đăng Thắng   	
 
-Ngô Đồng Thiện	  18110370
+18110370 Ngô Đồng Thiện	    
 
 GenderSwap model of StarGan 3 features(isLipMakeUp, isNoBeard, isMale) of CelebA dataset
 
