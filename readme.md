@@ -17,3 +17,5 @@ GenderSwap model of StarGan 3 features(isLipMakeUp, isNoBeard, isMale) of CelebA
 Link project: https://colab.research.google.com/drive/1wt-d4QEkr-6Mv6EUe4inMa0LbWH8yriN
 
 Link instruction video: https://youtu.be/l1xszZsx9AU
+
+Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/dokuro_approved_this_shjt.apk
