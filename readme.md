@@ -18,4 +18,6 @@ Link project: https://colab.research.google.com/drive/1wt-d4QEkr-6Mv6EUe4inMa0Lb
 
 Link instruction video: https://youtu.be/l1xszZsx9AU
 
+Link demo on colab video: https://drive.google.com/file/d/1jzgjMldvtoHiuL1VfxKXxOhI-VESpPC-/view?usp=sharing
+
 Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/dokuro_approved_this_shjt.apk
