@@ -20,4 +20,4 @@ Link instruction video: https://youtu.be/l1xszZsx9AU
 
 Link demo on colab video: https://drive.google.com/file/d/1jzgjMldvtoHiuL1VfxKXxOhI-VESpPC-/view?usp=sharing
 
-Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/dokuro_approved_this_shjt.apk
+Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/GenderSwap_approved_by_DoKuro.apk
