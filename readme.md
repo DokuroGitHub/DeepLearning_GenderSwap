@@ -1,6 +1,6 @@
-#PROJECT DEEP LEARNING:
+# PROJECT DEEP LEARNING:
 
-Nhóm 05:
+Group05:
 
 18110253 Lê Duy Bách         
 
