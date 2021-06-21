@@ -1,3 +1,4 @@
+![colab_demo](https://user-images.githubusercontent.com/67427497/122764560-caf14100-d2c9-11eb-852c-a52f4047391d.gif)
 # PROJECT DEEP LEARNING:
 
 Group05:
@@ -18,12 +19,7 @@ Link project: https://colab.research.google.com/drive/1wt-d4QEkr-6Mv6EUe4inMa0Lb
 
 Link instruction video: https://youtu.be/l1xszZsx9AU
 
-Link demo on colab 30s video: https://user-images.githubusercontent.com/67427497/122763455-8c0ebb80-d2c8-11eb-8635-703f296c116b.mp4
-
 Link demo on colab full video: https://drive.google.com/file/d/1jzgjMldvtoHiuL1VfxKXxOhI-VESpPC-/view?usp=sharing
 
 Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/GenderSwap_approved_by_DoKuro.apk
-
-
-
 
