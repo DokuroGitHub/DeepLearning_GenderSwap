@@ -1,4 +1,12 @@
+# Colab Demo:
+
 ![colab_demo](https://user-images.githubusercontent.com/67427497/122764560-caf14100-d2c9-11eb-852c-a52f4047391d.gif)
+
+# Android apk app demo:
+
+https://user-images.githubusercontent.com/67427497/123458077-cfda2b80-d60e-11eb-9f6e-9b4a9ac4fe7e.mp4
+
+
 # PROJECT DEEP LEARNING:
 
 Group05:
