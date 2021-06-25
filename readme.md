@@ -21,5 +21,5 @@ Link instruction video: https://youtu.be/l1xszZsx9AU
 
 Link demo on colab full video: https://drive.google.com/file/d/1jzgjMldvtoHiuL1VfxKXxOhI-VESpPC-/view?usp=sharing
 
-Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/GenderSwap_approved_v1.0.apk
+Link android app: https://github.com/DokuroGitHub/DeepLearning_GenderSwap/releases/download/dokuro_desu/GenderSwap_approved_by_Dokuro.apk
 
